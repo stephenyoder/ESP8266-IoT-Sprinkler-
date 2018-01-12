@@ -3,8 +3,8 @@
 #include <ESP8266WiFi.h>
 
 // Enter WiFi Details
-const char* ssid = "Point-D";
-const char* password = "";
+const char* ssid = "CBU-guest";
+const char* password = "Lancers1";
 
 void setup() {
   
